@@ -9,11 +9,17 @@ Complete as much as you think necessary to demonstrate your skills.
 1. Create README.md file. 
 2. Create THEME section and list your preferred Drupal theme (or themes). 
 3. List pros, cons and possible usage of the theme (or themes).
-4. Provide solution as `feature/section-1-doc` branch
+4. Provide solution as `feature/section-1-doc` branch.
 
 ## Section 2: configuration
 
-4. Provide solution as `feature/section-2-config` branch
+1. Create content type `Petition`.
+2. Add fields:
+    * `Category` taxonomy reference to `Petition Category` vocabulary
+    * `Closing date` date and time [compulsory] 
+3. Export above content type, fields and taxonomy as Feature. 
+4. Add feature files and folders to root folder of this repository 
+    and provide solution as `feature/section-2-config` branch.
 
 ## Section 3: contributed modules
 
