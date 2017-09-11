@@ -17,13 +17,21 @@ Complete as much as you think necessary to demonstrate your skills.
 2. Add fields:
     * `Category` taxonomy reference to `Petition Category` vocabulary
     * `Closing date` date and time [compulsory] 
-3. Export above content type, fields and taxonomy as Feature. 
-4. Add feature files and folders to root folder of this repository 
-    and provide solution as `feature/section-2-config` branch.
+3. Display `Category` and `Closing date` as inline label and field value.
+4. Export above content type, fields and taxonomy as Feature
+    * add feature files and folders to root folder of this repository 
+    * provide solution as `feature/section-2-config` branch.
 
 ## Section 3: contributed modules
 
-4. Provide solution as `feature/section-3-modules` branch
+1. Add URL pattern for `Petition` content type: `petition/[title]`.
+2. Display `Category` and `Closing date` in separate columns one next to another.
+3. Create view to display
+    * page with all petitions 
+    * block with 5 latest petitions 
+4. Update feature from `Section 2` 
+    * add feature files and folders to root folder of this repository 
+    * provide solution as `feature/section-3-modules` branch.
 
 ## Section 4: development
 
