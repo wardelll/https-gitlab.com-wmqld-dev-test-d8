@@ -3,11 +3,10 @@
 You don't have to complete the whole test.
 Complete as much as you think necessary to demonstrate your skills.
 
-
 ## Section 1: documentation
 
-1. Create README.md file. 
-2. Create THEME section and list your preferred Drupal theme (or themes). 
+1. Update current README.md file. 
+2. Add THEME section and list your preferred Drupal theme (or themes). 
 3. List pros, cons and possible usage of the theme (or themes).
 4. Provide solution as `feature/section-1-doc` branch.
 
