@@ -35,8 +35,15 @@ Complete as much as you think necessary to demonstrate your skills.
 
 ## Section 4: development
 
-4. Provide solution as `feature/section-4-devel` branch
+1. Add administrator form to above module to set `Default petition life span` in days.
+2. Add `Start date` date and time field to `Petition` content type.
+3. Change `Closing date` field value automatically based on `Start date` and `Default petition life span`.
+4. Update feature from Sections 2 and 3.  
+    * add feature files and folders to root folder of this repository 
+    * add other necessary files to complete above task
+    * provide solution as `feature/section-4-devel` branch.
 
 ## Section 5: git
 
-4. Provide solution as `feature/section-X-merge` branch
+1. Merge all 4 above branches into 1.
+2. Provide solution as `feature/section-X-merge` branch.
