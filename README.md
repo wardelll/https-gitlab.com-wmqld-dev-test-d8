@@ -46,3 +46,12 @@ Complete as much as you think necessary to demonstrate your skills.
 
 1. Merge all 4 above branches into 1.
 2. Provide solution as `feature/section-X-merge` branch.
+
+## Section 6: theme
+
+1. Prefered theme.
+    * Zen
+2. Pros
+    * Basic and responsive, great to use as a foundation.
+3. Cons
+    * Built using HTML 5 so it may not be suitable for projects requiring legacy browser support. 
