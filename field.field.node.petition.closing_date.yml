@@ -1,0 +1,22 @@
+# field.field.node.petition.closing_date.yml
+langcode: en
+status: true
+dependencies:
+    config:
+        - field.storage.node.closing_date
+        - node.type.petition
+    module:
+        - text
+id: node.petition.closing_date
+field_name: closing_date
+entity_type: node
+bundle: petition
+label: Closing Date
+description: 'Petition closing date.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+    display_summary: true
+field_type: text_with_summary
